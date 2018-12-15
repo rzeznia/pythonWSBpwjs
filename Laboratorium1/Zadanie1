@@ -1,0 +1,6 @@
+import os
+
+print("Czytanie listy plików i katalogów w katalogu C:\\Windows")
+path='C:\\Windows'
+print(len([f for f in os.listdir(path)if os.path.isfile(os.path.join(path, f))]))
+
