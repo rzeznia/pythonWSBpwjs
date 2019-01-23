@@ -5,8 +5,12 @@
 start=input("Podaj liczbę startową")
 stop=input("Podaj liczbę końcową")
 spc=input("Podaj ilość odstępu")
+step = int(spc)
 
-for x in range(int(start),int(stop)):
-    print(x, end='')
-    for y in range(0,int(spc)):
-        print(' ', end='')
+for x in range(int(start),int(stop)+1):
+    if step != 1:
+        if x % step == 0:
+            print(x , end=' ')
+    else:
+        print(x , end=' ')
+    

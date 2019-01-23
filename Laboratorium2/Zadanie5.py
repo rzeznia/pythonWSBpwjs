@@ -3,7 +3,7 @@
 # wprowadzonych ocen. Funkcje pomocnicze i statystyczne umieść w osobnym
 # module.
 
-import Laboratorium2.zad5_lib as zad_lib
+import zad5_lib as zad_lib
 oceny = []
 inp = 'a'
 while inp != 'c':

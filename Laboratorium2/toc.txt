@@ -1,0 +1,31 @@
+Zadanie1:
+    Gotowe
+
+Zadanie2:
+    Gotowe
+
+Zadanie3:
+    Gotowe
+
+Zadanie4:
+    Gotowe
+
+Zadanie5:
+    Gotowe
+
+Zadanie6:
+    - BRak funkcji Edytuj słownik
+    - BRak funkcji Usuń wpis
+    - Brak opcji szukaj
+
+Zadanie7:
+    - Szyfr: Brak obkodowanych wartości skrajnych
+
+Zadanie8:
+    Gotowe
+
+Zadanie9:
+    Gotowe
+    
+Zadanie 10:
+    Gotowe
