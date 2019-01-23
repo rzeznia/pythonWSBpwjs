@@ -1,9 +1,22 @@
 # Programowanie w językach skryptowych
 ## Python - Marcin Rzeźnik - WSB - INiN5_PG.3 
-One Paragraph of project description goes here
 
 ## Laboratorium 1
+#### Zadania prostsze:
+* Zadanie 1 - pełnoletność
+* Zadanie 2 - parzystość
+* Zadanie 3 - równanie liniowe
+* Zadanie 4 - postać kwadratowa + delta
+* Zadanie 5 - równanie kwadratowe - rozwiązanie
+* Zadanie 6 - spalanie samochodu
+* Zadanie 7 - Podatek dochodowy - JESZCZE NIE RUSZONE
+* Zadanie 8 - obliczanie BMI
+* Zadanie 9 - Liczby start - stop - krok. => To samo co Laboratorium 2 -> Zadanie 1
+* Zadanie 10 - Odwracanie tekstu. => To samo co Laboratorium 2 -> Zadanie 2
+* Zadanie 11 - Modyfikacja gry w zgadywanie - system podpowiedzi. => To samo co Laboratorium 2 -> Zadanie 3
+* Zadanie 12 - Gra - zgadywanka literowa => To samo co Laboratorium 2 -> Zadanie 4
 
+#### Zadania trudniejsze: 
 WIP
 
 ## Laboratorium 2
